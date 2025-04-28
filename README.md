@@ -1,2 +1,1 @@
-# website.org.kh
-https://github.com/rathanachris/website.org.git
+website.org.git
