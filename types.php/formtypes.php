@@ -26,9 +26,9 @@ use Doctrine\ORM\EntityRepository;
  ))
   ->add('plainPassword', 'repeated', array(
   'type' => 'password',
-  'first_options' => array('label' =>     'Parola'),
-  'second_options' => array('label' => 'Tekrar'),
-  'invalid_message' => 'Parola ve Tekrarı Uyuşmuyor',
+  'first_options' => array('label' =>  ''),
+  'second_options' => array('label' => ''),
+  'invalid_message' => 'Parola ve '),
  ))
     
     
