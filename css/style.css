@@ -1,6 +1,4 @@
-:root, :host {
-  --fa-style-family-classic: 'Font Awesome 6 Free';
-  --fa-font-solid: normal 900 1em/1 'Font Awesome 6 Free';
+
 body{
   margin:0; padding:0;
   box-sizing: border-box;
