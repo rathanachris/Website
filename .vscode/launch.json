@@ -14,7 +14,7 @@
             "type": "node",
             "name": "Run Current File",
             "request": "launch",
-            "program": "/workspaces/website.git.org/index.html"
+            "program": "/workspaces/website.org/index.html"
         }
     ]
 }
