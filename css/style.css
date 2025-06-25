@@ -89,7 +89,7 @@ html{
    padding: 2rem 9%;
   } 
 }
-home{
+.home{
   display: flex;
   align-items: center;
   min-height: 100vh;
