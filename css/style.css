@@ -16,7 +16,7 @@ html{
 header{
   position: fixed;
   top:0; left:0; right:0;
-  background:#ffff;
+  background:#fffff;
   padding:2rem 9%;
   display: flex;
   align-items: center;
@@ -61,7 +61,7 @@ header .fa-bars{
       padding: 2rem;
     }
  }
-@media (max-width:567px){
+@media (max-width:768px){
     header .far-bars{
        desplay: block;
     }
@@ -79,18 +79,15 @@ header .navbar a{
 @media (max-width: 768px) {
     }
 }
-
 @media (max-width: 450px) {
 html{
     font-size: 50%;
     }
-
  }
  /* home section start */
  section{
    padding: 2rem 9%;
-  }
-  
+  } 
 }
 home{
   display: flex;
@@ -279,4 +276,4 @@ card.img{
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-     }
+}
