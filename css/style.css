@@ -280,13 +280,6 @@ card.img{
   background-color: LightGray;
   color: white;
   padding: 10px;
-} 
-/* cyrillic-ext */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
 }
 /* Container for grid layout */
 .grid-container{
