@@ -113,17 +113,33 @@ html{
 .home{
   display: flex;
   align-items: center;
-  min-height: 100vh;
-  background-image: linear-gradient Orgba(0,0,0, 0.6)), url.("...img/table.jpg") no-repeat;
+  min-height: 30vh;
+  background-image: url.(..img/table.jpg); 
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
-.home content{
-    
+.home.content p{
+  font-size: 2rem;
+  padding: 1rem 0;
+  line-height: 1.5;
+  color: #999;
+  text-transform: none;
 }
-
-
+.home.content span{
+  font-size: 3.5rem;
+  padding: 1rem 0;
+  line-height: 1.5;
+  font-weight: bolder;
+}
+.home.content p{
+  font-size: 2rem;
+  padding: 1rem 0;
+  line-height: 1.5;
+  color: #999;
+  text-transform: none;
+}
+    
 container{  
  margin: 0 auto;  
  width: 80%;   
@@ -286,11 +302,4 @@ card.img{
   width:80%;
   margin:auto;
   overflow:hidde;
-}
-/* cyrillic-ext */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
 }
