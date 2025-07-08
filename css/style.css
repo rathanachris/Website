@@ -165,7 +165,7 @@ content:hover{
 box-shadow: 0 3px 6px rgba(0,0,0,0.11);
 transform: translate(0px, -8px);
 }
-logo img{         
+.logo img{         
 width: 500px;
 height: 500px; 
 box-shadow: 0 15px 30px;
@@ -244,8 +244,8 @@ transition: .65s;
 footer{
   padding:30px;
   margin-top:20px;
-  color: black;
-  background: #6b7fd6ba;
+  color: White;
+  background: black;
   margin-bottom: 1%;
 }
 .footer-li {  
