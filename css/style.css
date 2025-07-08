@@ -68,7 +68,7 @@ header .fa-bars{
 /* responsive */
 @media (max-width: 991px){
   header .far-bars{
-   font-size: 55%;
+   font-size: 50%;
   }
    header{
      padding: 2rem;
